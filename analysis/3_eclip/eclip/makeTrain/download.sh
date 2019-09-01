@@ -1,0 +1,1 @@
+xargs -n 1 curl -O -L < hg19.files.txt
